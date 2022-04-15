@@ -1,5 +1,5 @@
 # UnityUILib
-간단한 Unity 에서 활용 가능한 UI System
+Unity 에서 활용 가능한 간단한 UI System
 UISketch 를 상속받은 UI 객체는 UIManager 를 통해 생성, 관리, 재사용 됨
 
 DEV
